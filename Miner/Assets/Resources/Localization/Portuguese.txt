@@ -1,0 +1,81 @@
+﻿pickaxeUpgradeNAME0=Picareta Enferrujada - Nível: 1
+pickaxeUpgradeNAME1=Picareta de Ferro - Nível: 2
+pickaxeUpgradeNAME2=Picareta de Cobre - Nível: 3
+pickaxeUpgradeNAME3=Picareta de Prata - Nível: 4
+pickaxeUpgradeNAME4=Picareta de Ouro - Nível: 5
+pickaxeUpgradeNAME5=Picareta de Obsidiana - Nível: 6
+pickaxeUpgradeNAME6=Picareta de Topázio - Nível: 7
+pickaxeUpgradeNAME7=Picareta de Villiaumite - Nível: 8
+pickaxeUpgradeNAME8=Picareta de Ametista - Nível: 9
+pickaxeUpgradeNAME9=Picareta de Cianita - Nível: 10
+pickaxeUpgradeNAME10=Picareta de Diamante - Nível: 11
+pickaxeUpgradeNAME11=Picareta de Esmeralda - Nível: 12
+pickaxeUpgradeNAME12=Picareta de Pirita - Nível: 13
+pickaxeUpgradeNAME13=Picareta de Ouro - Nível: 14
+pickaxeUpgradeNAME14=Picareta de Ouro - Nível: 15
+pickaxeUpgradeNAME15=Picareta de Ouro - Nível: 16
+pickaxeUpgradeNAME16=Picareta de Ouro - Nível: 17
+pickaxeUpgradeNAME17=Picareta de Ouro - Nível: 18
+pickaxeUpgradeNAME18=Picareta de Ouro - Nível: 19
+pickaxeUpgradeNAME19=Picareta de Ouro - Nível: 20
+pickaxeUpgradeNAME20=Picareta de Ouro - Nível: 21
+pickaxeUpgradeNAME21=Picareta de Ouro - Nível: 22
+pickaxeUpgradeNAME22=Picareta de Ouro - Nível: 23
+pickaxeUpgradeNAME23=Picareta de Ouro - Nível: 24
+pickaxeUpgradeNAME24=Picareta de Ouro - Nível: 25
+pickaxeUpgradeNAME25=Picareta de Ouro - Nível: 26
+pickaxeUpgradeNAME26=Picareta de Ouro - Nível: 27
+pickaxeUpgradeNAME27=Picareta de Ouro - Nível: 28
+pickaxeUpgradeNAME28=Picareta de Ouro - Nível: 29
+pickaxeUpgradeNAME29=Picareta de Ouro - Nível: 30
+pickaxeUpgradeNAME30=Picareta de Ouro - Nível: 31
+pickaxeUpgradeNAME31=Picareta de Ouro - Nível: 32
+pickaxeUpgradeNAME32=Picareta de Ouro - Nível: 33
+pickaxeUpgradeNAME33=Picareta de Ouro - Nível: 34
+pickaxeUpgradeNAME34=Picareta de Ouro - Nível: 35
+pickaxeUpgradeNAME35=Picareta de Ouro - Nível: 36 
+pickaxeUpgradeNAME35=Picareta de Ouro - Nível: 37
+pickaxeUpgradeNAME35=Picareta de Ouro - Nível: 38
+pickaxeUpgradeNAME35=Picareta de Ouro - Nível: 39
+pickaxeUpgradeNAME35=Picareta de Ouro - Nível: 40 MAX
+
+pickaxeUpgradeDESCRIPTION0=Aumenta suas chances de encontrar pedras melhores.
+pickaxeUpgradeCOMMENT0=A melhor amiga de um anão!
+pickaxeUpgradeCOMMENT1=A melhor amiga dourada de um anão!
+
+dwarfsUpgradeNAME0=Anões - Nível: 1
+dwarfsUpgradeNAME1=Anões - Nível: 2
+dwarfsUpgradeNAME2=Anões - Nível: 3
+dwarfsUpgradeNAME3=Anões - Nível: 4
+dwarfsUpgradeNAME4=Anões - Nível: 5
+dwarfsUpgradeNAME5=Anões - Nível: 6
+dwarfsUpgradeNAME6=Anões - Nível: 7
+dwarfsUpgradeNAME7=Anões - Nível: 8
+dwarfsUpgradeNAME8=Anões - Nível: 9
+
+dwarfsUpgradeDESCRIPTION0=Dez de ouro por segundo, por cada anão trabalhando para você.
+dwarfsUpgradeCOMMENT0=Machados dos Anões! Os Anões estão sobre vocês!
+
+minesUpgradeNAME0=Minas Filiais - Nível:
+minesUpgradeDESCRIPTION0=1000 de ouro por segundo, para cada mina filial que você possuir.
+minesUpgradeCOMMENT0=Temos nossa própria masmorra!
+
+DURATION=Duração
+
+strengthBuffNAME=Poção de Força
+strengthBuffDESCRIPTION=Quebra pedras mais rápido por 30 segundos.
+strengthBuffCOMMENT=Eu tenho a força!
+
+twoHandedBuffNAME=Ambidestro
+twoHandedBuffDESCRIPTION=Cada clique conta como dois.
+twoHandedBuffCOMMENT=Isso não é coisa de elfo?
+
+fourLeafBuffNAME=Trevo de Quatro Folhas
+fourLeafBuffDESCRIPTION=Aumenta as chances de conseguir pedras mais raras por 10 segundos.
+fourLeafBuffCOMMENT=Hoje é seu dia de sorte!
+
+preciousStonesBuffNAME=Pedras Valiosas
+preciousStonesBuffDESCRIPTION=Pedras quebradas até o final darão duas vezes mais ouro.
+preciousStonesBuffCOMMENT=Tempo é ouro!
+
+chooseLanguage=Escolha seu idioma
