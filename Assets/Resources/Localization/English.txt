@@ -1,0 +1,81 @@
+﻿pickaxeUpgradeNAME0=Rusty Pickaxe - Level: 1
+pickaxeUpgradeNAME1=Iron Pickaxe - Level: 2
+pickaxeUpgradeNAME2=Copper Pickaxe - Level: 3
+pickaxeUpgradeNAME3=Silver Pickaxe - Level: 4
+pickaxeUpgradeNAME4=Golden Pickaxe - Level: 5
+pickaxeUpgradeNAME5=Obsidian Pickaxe - Nível: 6
+pickaxeUpgradeNAME6=Topaz Pickaxe - Nível: 7
+pickaxeUpgradeNAME7=Villiaumite Pickaxe- Nível: 8
+pickaxeUpgradeNAME8=Amethyst Pickaxe - Nível: 9
+pickaxeUpgradeNAME9=Kyanite Pickaxe - Nível: 10
+pickaxeUpgradeNAME10=Diamond Pickaxe - Nível: 11
+pickaxeUpgradeNAME11=Emerald Pickaxe - Nível: 12
+pickaxeUpgradeNAME12=Pyrite Pickaxe - Nível: 13
+pickaxeUpgradeNAME13=Obsidian Pickaxe - Nível: 14
+pickaxeUpgradeNAME14=Obsidian Pickaxe - Nível: 15
+pickaxeUpgradeNAME15=Obsidian Pickaxe - Nível: 16
+pickaxeUpgradeNAME16=Obsidian Pickaxe - Nível: 17
+pickaxeUpgradeNAME17=Obsidian Pickaxe - Nível: 18
+pickaxeUpgradeNAME18=Obsidian Pickaxe - Nível: 19
+pickaxeUpgradeNAME19=Obsidian Pickaxe - Nível: 20
+pickaxeUpgradeNAME20=Obsidian Pickaxe - Nível: 21
+pickaxeUpgradeNAME21=Obsidian Pickaxe - Nível: 22
+pickaxeUpgradeNAME22=Obsidian Pickaxe - Nível: 23
+pickaxeUpgradeNAME23=Obsidian Pickaxe - Nível: 24
+pickaxeUpgradeNAME24=Obsidian Pickaxe - Nível: 25
+pickaxeUpgradeNAME25=Obsidian Pickaxe - Nível: 26
+pickaxeUpgradeNAME26=Obsidian Pickaxe - Nível: 27
+pickaxeUpgradeNAME27=Obsidian Pickaxe - Nível: 28
+pickaxeUpgradeNAME28=Obsidian Pickaxe - Nível: 29
+pickaxeUpgradeNAME29=Obsidian Pickaxe - Nível: 30
+pickaxeUpgradeNAME30=Obsidian Pickaxe - Nível: 31
+pickaxeUpgradeNAME31=Obsidian Pickaxe - Nível: 32
+pickaxeUpgradeNAME32=Obsidian Pickaxe - Nível: 33
+pickaxeUpgradeNAME33=Obsidian Pickaxe - Nível: 34
+pickaxeUpgradeNAME34=Obsidian Pickaxe - Nível: 35
+pickaxeUpgradeNAME35=Obsidian Pickaxe - Nível: 36
+pickaxeUpgradeNAME35=Obsidian Pickaxe - Nível: 37
+pickaxeUpgradeNAME35=Obsidian Pickaxe - Nível: 38
+pickaxeUpgradeNAME35=Obsidian Pickaxe - Nível: 39
+pickaxeUpgradeNAME35=Obsidian Pickaxe - Nível: 40 MAX 
+
+pickaxeUpgradeDESCRIPTION0=Increases your chances of finding better stones.
+pickaxeUpgradeCOMMENT0=A dwarf's best friend!
+pickaxeUpgradeCOMMENT1=A dwarf's golden best friend!
+
+dwarfsUpgradeNAME0=Dwarfs - Level: 1
+dwarfsUpgradeNAME1=Dwarfs - Level: 2
+dwarfsUpgradeNAME2=Dwarfs - Level: 3
+dwarfsUpgradeNAME3=Dwarfs - Level: 4
+dwarfsUpgradeNAME4=Dwarfs - Level: 5
+dwarfsUpgradeNAME5=Dwarfs - Level: 6
+dwarfsUpgradeNAME6=Dwarfs - Level: 7
+dwarfsUpgradeNAME7=Dwarfs - Level: 8
+dwarfsUpgradeNAME8=Dwarfs - Level: 9
+
+dwarfsUpgradeDESCRIPTION0=Ten gold per second, for each dwarf working for you.
+dwarfsUpgradeCOMMENT0=Dwarf's Axes! The Dwarves are upon you!
+
+minesUpgradeNAME0=Subsidiary Mines - Level:
+minesUpgradeDESCRIPTION0=1000 gold per second, for each filial mine you own.
+minesUpgradeCOMMENT0=We have our own dungeon!
+
+DURATION=Duration
+
+strengthBuffNAME=Strength Potion
+strengthBuffDESCRIPTION=Break rocks faster for 30 seconds.
+strengthBuffCOMMENT=I have the power!
+
+twoHandedBuffNAME=Ambidextrous
+twoHandedBuffDESCRIPTION=Each click counts as two.
+twoHandedBuffCOMMENT=Isn't that an elf thing?
+
+fourLeafBuffNAME=Four Leaf Clover
+fourLeafBuffDESCRIPTION=Increases the chances of getting rarer stones for 10 seconds.
+fourLeafBuffCOMMENT=Today is your lucky day!
+
+preciousStonesBuffNAME=Precious Stones
+preciousStonesBuffDESCRIPTION=Stones broken to the end will give twice as much gold.
+preciousStonesBuffCOMMENT=Time is gold!
+
+chooseLanguage=Choose your language
